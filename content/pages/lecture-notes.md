@@ -25,7 +25,7 @@ Before thinking about how to do concept development, we will explore who does th
 {{< tdclose >}}{{< tdopen >}}
 
 _Systematic Generation of Ideas for "Breakthrough" New Products and Services_ **\-** _the "Lead User_ _Method"_ ({{% resource_link e219d9cd-e203-71f3-0dd4-58bfb4be35e6 "PDF" %}})   
-The {{% resource_link "7087f366-37ed-4730-a77a-3345c1fcc6ce" "complete article" %}} and Lead User Videos are available.
+The [complete article](https://web.archive.org/web/20060213213057/http://leaduser.com/introductory_article_and_online_video.html) and Lead User Videos are available.
 
 Users innovate when it is in their interest to do so. But not all user innovations will make a good product from a product manufacturer's standpoint. Therefore, manufacturers must identify and learn from "lead" users. 3M and other firms have learned to network their way to lead users and then combine lead user ideas with their own to create "breakthrough" new products and services. The {{% resource_link 4c7c1c7f-12d0-dea1-9546-59ed84761700 "reading" %}} for this lecture describes the 3M experience.
 
